@@ -2,8 +2,8 @@
   "name": "bip174",
   "version": "1.0.0",
   "description": "",
-  "main": "src/lib/psbt.js",
-  "types": "src/lib/psbt.d.ts",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
   "files": [
     "src/lib"
   ],
